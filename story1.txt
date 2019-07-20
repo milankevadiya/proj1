@@ -1,2 +1,3 @@
-line 1 git init
+git init
 line 2
+line 3
